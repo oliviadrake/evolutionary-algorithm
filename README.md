@@ -4,4 +4,4 @@ Evolutionary algorithm to solve 3 sudokus.
 
 To run, use the command:
 
-python evolutionary.py
+> python evolutionary.py
